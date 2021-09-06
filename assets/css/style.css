@@ -1,0 +1,91 @@
+html, body {
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+}
+
+#index {
+	height: 100%;
+}
+.epgis-control-container{
+	height: 100%;
+    position: relative;
+}
+.el-header {
+	padding: 0px;
+}
+.el-container.is-vertical{
+	height:100%;
+}
+.logo {
+    position: relative;
+    top: 10px;
+    float: left;
+    z-index: 100;
+    width: 240px;
+    height: 40px;
+    line-height: 40px;
+    padding-left: 0px;
+    color: #fff;
+    font-size: 16px;
+    margin-left: 60px;
+}
+
+.el-menu-demo {
+	padding-left: 350px;
+}
+.el-menu-demo i {
+	color: #fff;
+}
+
+#index>.el-container, 
+#index>.el-container>.el-container,
+.el-aside>div,
+.el-aside>div>.el-menu
+{
+	height: 100%;
+}
+
+#index>.el-container>.el-container>.el-aside>div>.el-menu{
+	border: none;
+}
+
+#index>.el-container>.el-container>.el-aside{
+    border-right: solid 1px #e6e6e6;
+    width: 15%\0 !important;
+    display: inline-block\0;
+    vertical-align: top\0;
+    height: 85%\0;
+}
+
+#index>.el-container>.el-container>.el-main{
+    width: 84%\0 !important;
+    display: inline-block\0;
+}
+
+.userinfo {
+	position: absolute;
+	top: 12px;
+	right: 30px;
+	color: #fff;
+    font-size: 14px;
+}
+
+.userinfo span{
+	margin-right: 10px;
+	vertical-align: middle;
+}
+
+.userinfo a {
+	margin-left: 10px;
+	color: #fff;
+	vertical-align: middle;
+	cursor: pointer;
+}
+.algin-right {
+	text-align: right;
+}
+.algin-right>span {
+	margin-left: 10px;
+}
+

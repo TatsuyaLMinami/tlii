@@ -1,0 +1,54 @@
+
+/*监控展示内容区域*/
+.index_work{width:100%;}
+
+.operation{height:200px;border-bottom:1px solid #ddd;}
+.operation>div{display: inline-block;width:80%;height: 140px;margin: 20px 0;}
+.operation .operation_left{background: url(images/icon4.png) center no-repeat;position: relative;margin-left: 40px;}
+.operation .operation_left>div{width: 30px;height: 30px;background:url(images/icons_new.png) -180px -50px no-repeat;position: absolute;cursor: pointer;}
+.operation .operation_left>div.top_btn{left: 43%;top:5px;}
+.operation .operation_left>div.right_btn{background-position: -210px -50px;top:40%;right: 20%;}
+.operation .operation_left>div.bottom_btn{background-position: -240px -50px;left:43%;bottom: 5px;}
+.operation .operation_left>div.left_btn{background-position: -270px -50px;top:40%;left:20%;}
+.operation .operation_left>div.top_btn:hover{background-position: -180px -80px;}
+.operation .operation_left>div.right_btn:hover{background-position: -210px -80px;}
+.operation .operation_left>div.bottom_btn:hover{background-position: -240px -80px;}
+.operation .operation_left>div.left_btn:hover{background-position: -270px -80px;}
+.operation .operation_right{color: #666;padding-left: 80px;}
+.operation .operation_right>div{margin:5px 0 15px 0;}
+.operation .operation_right .work_icon{display: inline-block;vertical-align: middle;}
+.operation .operation_right .work_icon span{width:28px;height: 28px; display: inline-block;/*background-color:#3C8DBC;border-radius: 50%;*/cursor: pointer;margin: 0 5px;}
+.progress {  overflow: hidden;  height:8px; background-color: #f7f7f7;
+	background-image: -moz-linear-gradient(top, #f5f5f5, #f9f9f9);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#f5f5f5), to(#f9f9f9));
+	background-image: -webkit-linear-gradient(top, #f5f5f5, #f9f9f9);
+	background-image: -o-linear-gradient(top, #f5f5f5, #f9f9f9);
+	background-image: linear-gradient(to bottom, #f5f5f5, #f9f9f9);
+	background-repeat: repeat-x;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff5f5f5', endColorstr='#fff9f9f9', GradientType=0); -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);   -moz-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+	box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+	-webkit-border-radius: 4px;   -moz-border-radius: 4px;  border-radius: 4px;  width:88px; }
+.progress .bar {  width: 0%;  height: 100%;  color: #ffffff;  float: left;  font-size: 12px;  text-align: center; align-items: center;  display: flex;  justify-content: center;  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);  background-color: #328f87;  background-image: -moz-linear-gradient(top, #328f87, #005c57);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#3C8DBC), to(#3C8DBC));
+	background-image: -webkit-linear-gradient(top, #3C8DBC, #3C8DBC);
+	background-image: -o-linear-gradient(top, #3C8DBC, #3C8DBC);
+	background-image: linear-gradient(to bottom, #3C8DBC, #3C8DBC);
+	background-repeat: repeat-x;
+	/*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff149bdf', endColorstr='#ff0480be', GradientType=0);*/
+	-webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
+	-moz-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);   box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);   -webkit-box-sizing: border-box;   -moz-box-sizing: border-box;   box-sizing: border-box;   -webkit-transition: width 0.6s ease;
+	-moz-transition: width 0.6s ease;  -o-transition: width 0.6s ease;  transition: width 0.6s ease;  }
+
+.operation .operation_right .work_icon span div{display: inline-block;width: 28px;height: 28px;background: url(images/icons_new.png) -1px -51px no-repeat;	 }
+.operation .operation_right .work_icon span.narrow_icon div{background-position: -31px -51px;}
+.operation .operation_right .work_icon span.strong_icon div{background-position: -61px -51px;}
+.operation .operation_right .work_icon span.weak_icon div{background-position: -91px -51px;}
+.operation .operation_right .work_icon span.near_icon div{background-position: -121px -51px;}
+.operation .operation_right .work_icon span.far_icon div{background-position: -151px -51px;}
+
+.operation .operation_right .work_icon span div:hover{background-position: -1px -81px;}
+.operation .operation_right .work_icon span.narrow_icon div:hover{background-position: -31px -81px;}
+.operation .operation_right .work_icon span.strong_icon div:hover{background-position: -61px -81px;}
+.operation .operation_right .work_icon span.weak_icon div:hover{background-position: -91px -81px;}
+.operation .operation_right .work_icon span.near_icon div:hover{background-position: -121px -81px;}
+.operation .operation_right .work_icon span.far_icon div:hover{background-position: -151px -81px;}

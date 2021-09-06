@@ -1,0 +1,49 @@
+.publicStyle ,.dialogTable{
+    height: 100%;
+    width: 100%;
+    min-width: 1000px;
+}
+.publicStyle>.el-dialog {
+    /* width: 1000px; */
+    margin-top: 10vh !important;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+.dialogTable>.el-dialog {
+    width: 1000px;
+    margin-top: 10vh !important;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+.publicStyle,.dialogTable>.el-dialog>.el-dialog__header {
+        text-align: center;
+        border-bottom: 1px solid #eee;
+}
+.publicStyle,.dialogTable>.el-dialog>.el-dialog__headerbtn {
+    top: 15px;
+}
+.publicStyle,.dialogTable>.el-dialog>.el-dialog__close {
+    color: black;
+}
+.publicStyle,.dialogTable>.el-dialog>.el-dialog__body {
+    height: 335px;
+    padding: 10px;
+}
+.publicStyle>.el-dialog>.el-dialog__body>.el-pagination {
+    position: absolute;
+    bottom: 70px;
+    left: 30%;
+}
+.dialogTable>.el-dialog>.el-dialog__body>.el-pagination {
+    position: absolute;
+    bottom: 10px;
+    left: 40%;
+}
+.publicStyle,.dialogTable>.el-dialog>.el-dialog__footer{
+    padding:40px 0px 15px 0px;
+}
+.publicStyle,.dialogTable>.el-dialog>.el-dialog__footer>.dialog-footer {
+    text-align: center;        
+}

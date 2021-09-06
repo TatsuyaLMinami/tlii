@@ -1,0 +1,65 @@
+{
+	"successful": true,
+	"resultValue": {
+		"nodes": [{
+				"id": "1",
+				"route": "/",
+				"text": "首页",
+				"hasChildren": false
+			}, {
+			"id": "2",
+			"route": "/deviceResource",
+			"text": "设备资源管理",
+			"hasChildren": true,
+			"childNodes": [{
+				"id": "21",
+				"route": "/deviceResource/resource",
+				"text": "资源全景展示",
+				"hasChildren": false
+			}, {
+				"id": "22",
+				"route": "/deviceResource/line",
+				"text": "线路管理",
+				"hasChildren": false
+            },{
+				"id": "23",
+				"route": "/deviceResource/threeCross",
+				"text": "三跨管理",
+				"hasChildren": false
+			},{
+				"id": "24",
+				"route": "/deviceResource/importantPassage",
+				"text": "重要通道管理",
+				"hasChildren": false
+			},{
+				"id": "25",
+				"route": "/deviceResource/threeD",
+				"text": "三维全息展示",
+				"hasChildren": false
+			}]
+		}, {
+			"id": "4",
+			"route": "/system1",
+			"text": "系统管理",
+			"url": "",
+			"hasChildren": true,
+			"childNodes": [{
+				"id": "4",
+				"route": "/system1/menu4",
+				"text": "菜单",
+				"hasChildren": true,
+				"childNodes": [{
+					"id": "41",
+					"route": "/system1/menu4/menu41",
+					"text": "菜单一",
+					"hasChildren": false
+				}, {
+					"id": "42",
+					"route": "/system1/menu4/menu42",
+					"text": "菜单2",
+					"hasChildren": false
+				}]
+			}]
+		}]
+	}
+}
