@@ -6,6 +6,7 @@ export default function ({ store, redirect, app: { $axios } }) {
     if (process.client) {
         window.$axios = $axios;
     }
+    
     $axios.onRequest((options) => {
         const method = (options.type || options.method || "get").toLowerCase();
         const data = options.data;
