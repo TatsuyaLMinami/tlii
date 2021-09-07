@@ -9,9 +9,9 @@ const bcrypt = require('bcryptjs');
 // 动态路由 router.get('/:id', func)
 // 通过ctx.params获取参数
 // const jwt = require('koa-jwt'); // 引入koa-jwt
-const getList = async function (ctx, next) {
+const getLineLayer = async function (ctx, next) {
     const data = ctx.query; // post过来的数据存在request.body里
-    const list = await resource.getList();
+    const list = await resource.getLineLayer();
     if (list !== null) { // 如果查无此会返回null
         ctx.response.body = {
             resultHint: "",
@@ -26,5 +26,5 @@ const getList = async function (ctx, next) {
     }
 };
 module.exports = {
-    getList
+    getLineLayer
 }

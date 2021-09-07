@@ -2,7 +2,7 @@ import Vue from 'vue'
 import { decode, parsePath, withoutBase, withoutTrailingSlash, normalizeURL } from 'ufo'
 
 import { getMatchedComponentsInstances, getChildrenComponentInstancesUsingFetch, promisify, globalHandleError, urlJoin, sanitizeComponent } from './utils'
-import NuxtError from './components/nuxt-error.vue'
+import NuxtError from '..\\layouts\\error.vue'
 import NuxtLoading from './components/nuxt-loading.vue'
 import NuxtBuildIndicator from './components/nuxt-build-indicator'
 
@@ -18,9 +18,10 @@ import '..\\assets\\css\\scroll.css'
 
 import '..\\assets\\css\\public.css'
 
-import _6f6c098b from './layouts/default.vue'
+import _6f6c098b from '..\\layouts\\default.vue'
+import _2d23c385 from '..\\layouts\\full.vue'
 
-const layouts = { "_default": sanitizeComponent(_6f6c098b) }
+const layouts = { "_default": sanitizeComponent(_6f6c098b),"_full": sanitizeComponent(_2d23c385) }
 
 export default {
   render (h, props) {

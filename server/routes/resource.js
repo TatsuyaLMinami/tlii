@@ -1,12 +1,12 @@
 // routes/resource.js
 const resource = require('../controllers/resource.js');
 const router = require('koa-router')();
-router.get('/indexEquipment/getLineLayer', resource.getList);
-router.get('/indexEquipment/getTowerLayer', resource.getList);
-router.post('/indexStatus/getCountByTowerId', resource.getList);
-router.get('/indexStatus/getTodayMarkTowerLayer', resource.getList);
-router.get('/indexStatus/getTodayNormalTowerLayer', resource.getList);
-router.get('/indexTask/getTodayTaskLayer', resource.getList);
-router.get('/indexTopic/getConstructionPointLayer', resource.getList);
-router.get('/indexTopic/getSpanLayer', resource.getList);
+router.get('/indexEquipment/getLineLayer', resource.getLineLayer);
+router.get('/indexEquipment/getTowerLayer', resource.getLineLayer);
+router.post('/indexStatus/getCountByTowerId', resource.getLineLayer);
+router.get('/indexStatus/getTodayMarkTowerLayer', resource.getLineLayer);
+router.get('/indexStatus/getTodayNormalTowerLayer', resource.getLineLayer);
+router.get('/indexTask/getTodayTaskLayer', resource.getLineLayer);
+router.get('/indexTopic/getConstructionPointLayer', resource.getLineLayer);
+router.get('/indexTopic/getSpanLayer', resource.getLineLayer);
 module.exports = router; // 把router规则暴露出去

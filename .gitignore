@@ -98,3 +98,7 @@ sw.*
 .nuxt/layouts/error.vue
 .nuxt/layouts/full.vue
 .nuxt/vetur/tags.json
+.nuxt/App.js
+.nuxt/index.js
+.nuxt/components/nuxt.js
+.nuxt/layouts/default.vue

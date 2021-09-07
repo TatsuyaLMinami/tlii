@@ -1051,14 +1051,14 @@ export default {
   }
   .layers {
     position: absolute;
-    top: 85px;
-    left: 240px;
+    top: 0px;
+    left: 0px;
     z-index: 10;
   }
   .layer-link {
     position: absolute;
-    right: 20px;
-    top: 85px;
+    right: 0px;
+    top: 0px;
     z-index: 10;
   }
 }

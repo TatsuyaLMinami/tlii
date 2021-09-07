@@ -6,7 +6,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'tlii-platform-tpiim-nuxtkoa2',
+    title: '地市级输电全景智慧物联监控平台',
     htmlAttrs: {
       lang: 'en'
     },
@@ -17,8 +17,12 @@ export default {
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
-    ]
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: "stylesheet", href: "https://lbs.sgmap.cn/api/epgis-1.4.2.css" },
+    ],
+    script: [
+      { src: "https://lbs.sgmap.cn/api/epgis-js-1.4.2.min.js" }
+    ],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css

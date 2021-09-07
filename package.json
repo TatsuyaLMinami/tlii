@@ -7,7 +7,8 @@
     "build": "nuxt build",
     "startServer":"nodemon app.js",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "sequelize":"node server/auto.js"
   },
   "dependencies": {
     "@babel/runtime": "^7.15.4",
