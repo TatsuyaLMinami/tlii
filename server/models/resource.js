@@ -1,15 +1,24 @@
 // models/resource.js
-const db = require("../config/db.js"),
-  Sequelize = require("sequelize"),
-  resourceModel = "../schema/baseData.js"; // 引入baseData的表结构
-const tlii = db.tlii; // 引入数据库
-const Rresource = require(resourceModel)(tlii, Sequelize.DataTypes); // 新版本写法
-const getList = async function () {
-  const list = await Rresource.findAll({
-    attributes: { exclude: ['id'] }
-  });
-  return list; // 返回数据
+const db = require("../db"); //
+const getLineLayer = async function () {
+  let lines = await (db.line.findAll());
+  for (let keyA in lines) {
+    lines[keyA].towers = [];
+    let towers = [], lineTower = JSON.parse(lines[keyA].tower);
+    for (let keyB in lineTower) {
+      const tower = await db.tower.findAll({
+        where: {
+          id: lineTower[keyB]
+        }
+      })
+      towers.push({ longitude: tower[0].longitude, latitude: tower[0].latitude })
+    }
+    lines[keyA].towers = towers;
+  }
+  if (lines.towers) {
+    return lines;
+  }
 };
 module.exports = {
-  getList
+  getLineLayer
 };
