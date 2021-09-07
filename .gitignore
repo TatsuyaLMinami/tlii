@@ -66,7 +66,7 @@ typings/
 .next
 
 # nuxt.js build output
-
+.nuxt
 
 # Nuxt generate
 dist
@@ -89,3 +89,12 @@ sw.*
 # Vim swap files
 *.swp
 \.history
+.nuxt/index.js
+.nuxt/router.js
+.nuxt/routes.json
+.nuxt/components/index.js
+.nuxt/components/readme.md
+.nuxt/layouts/default.vue
+.nuxt/layouts/error.vue
+.nuxt/layouts/full.vue
+.nuxt/vetur/tags.json

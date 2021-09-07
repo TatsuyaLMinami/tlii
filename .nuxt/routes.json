@@ -2,1092 +2,1092 @@
   {
     "name": "home",
     "path": "/home",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\home\\\\index.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\home\\\\index.vue",
     "chunkName": "pages/home/index",
-    "_name": "_438eb69d"
+    "_name": "_4387cc08"
   },
   {
     "name": "login",
     "path": "/login",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\login\\\\index.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\login\\\\index.vue",
     "chunkName": "pages/login/index",
-    "_name": "_1e41342f"
+    "_name": "_1d6acc24"
   },
   {
     "name": "common-eventBus",
     "path": "/common/eventBus",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\common\\\\eventBus.js",
+    "component": "G:\\\\tlii\\\\pages\\\\common\\\\eventBus.js",
     "chunkName": "pages/common/eventBus",
-    "_name": "_65c367d0"
+    "_name": "_5668b403"
   },
   {
     "name": "deviceResource-importantPassage",
     "path": "/deviceResource/importantPassage",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\deviceResource\\\\importantPassage.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\deviceResource\\\\importantPassage.vue",
     "chunkName": "pages/deviceResource/importantPassage",
     "children": [
       {
         "name": "deviceResource-importantPassage-ip",
         "path": "ip",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\deviceResource\\\\importantPassage\\\\ip.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\deviceResource\\\\importantPassage\\\\ip.vue",
         "chunkName": "pages/deviceResource/importantPassage/ip",
-        "_name": "_7d8945dd"
+        "_name": "_5d50e25c"
       }
     ],
-    "_name": "_354c77b6"
+    "_name": "_4d27832b"
   },
   {
     "name": "deviceResource-line",
     "path": "/deviceResource/line",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\deviceResource\\\\line.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\deviceResource\\\\line.vue",
     "chunkName": "pages/deviceResource/line",
     "children": [
       {
         "name": "deviceResource-line-lineBasicInfo",
         "path": "lineBasicInfo",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\deviceResource\\\\line\\\\lineBasicInfo.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\deviceResource\\\\line\\\\lineBasicInfo.vue",
         "chunkName": "pages/deviceResource/line/lineBasicInfo",
-        "_name": "_13da1f7a"
+        "_name": "_2f5463e5"
       },
       {
         "name": "deviceResource-line-lineTable",
         "path": "lineTable",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\deviceResource\\\\line\\\\lineTable.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\deviceResource\\\\line\\\\lineTable.vue",
         "chunkName": "pages/deviceResource/line/lineTable",
-        "_name": "_8734c168"
+        "_name": "_541e5d92"
       },
       {
         "name": "deviceResource-line-lineTree",
         "path": "lineTree",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\deviceResource\\\\line\\\\lineTree.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\deviceResource\\\\line\\\\lineTree.vue",
         "chunkName": "pages/deviceResource/line/lineTree",
-        "_name": "_5c754a90"
+        "_name": "_d1d2a176"
       }
     ],
-    "_name": "_d879ec44"
+    "_name": "_c638465a"
   },
   {
     "name": "deviceResource-monitor",
     "path": "/deviceResource/monitor",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\deviceResource\\\\monitor.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\deviceResource\\\\monitor.vue",
     "chunkName": "pages/deviceResource/monitor",
     "children": [
       {
         "name": "deviceResource-monitor-m",
         "path": "m",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\deviceResource\\\\monitor\\\\m.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\deviceResource\\\\monitor\\\\m.vue",
         "chunkName": "pages/deviceResource/monitor/m",
-        "_name": "_f15d8386"
+        "_name": "_9539751c"
       }
     ],
-    "_name": "_e287cf40"
+    "_name": "_5cfd356a"
   },
   {
     "name": "deviceResource-resource",
     "path": "/deviceResource/resource",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\deviceResource\\\\resource.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\deviceResource\\\\resource.vue",
     "chunkName": "pages/deviceResource/resource",
     "children": [
       {
         "name": "deviceResource-resource-Equipment",
         "path": "Equipment",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\deviceResource\\\\resource\\\\Equipment.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\deviceResource\\\\resource\\\\Equipment.vue",
         "chunkName": "pages/deviceResource/resource/Equipment",
-        "_name": "_23550426"
+        "_name": "_3ecf4891"
       },
       {
         "name": "deviceResource-resource-MapLabelWindow",
         "path": "MapLabelWindow",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\deviceResource\\\\resource\\\\MapLabelWindow.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\deviceResource\\\\resource\\\\MapLabelWindow.vue",
         "chunkName": "pages/deviceResource/resource/MapLabelWindow",
-        "_name": "_71ad7ca0"
+        "_name": "_32944315"
       },
       {
         "name": "deviceResource-resource-ProjectPopupMsg",
         "path": "ProjectPopupMsg",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\deviceResource\\\\resource\\\\ProjectPopupMsg.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\deviceResource\\\\resource\\\\ProjectPopupMsg.vue",
         "chunkName": "pages/deviceResource/resource/ProjectPopupMsg",
-        "_name": "_4a256406"
+        "_name": "_b3d1279e"
       },
       {
         "name": "deviceResource-resource-StatePopup",
         "path": "StatePopup",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\deviceResource\\\\resource\\\\StatePopup.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\deviceResource\\\\resource\\\\StatePopup.vue",
         "chunkName": "pages/deviceResource/resource/StatePopup",
-        "_name": "_6bce58b3"
+        "_name": "_80c6bcb0"
       },
       {
         "name": "deviceResource-resource-WorkPopupMsg",
         "path": "WorkPopupMsg",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\deviceResource\\\\resource\\\\WorkPopupMsg.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\deviceResource\\\\resource\\\\WorkPopupMsg.vue",
         "chunkName": "pages/deviceResource/resource/WorkPopupMsg",
-        "_name": "_f53b7404"
+        "_name": "_1ec225b3"
       },
       {
         "name": "deviceResource-resource-equipment-BadMsg",
         "path": "equipment/BadMsg",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\deviceResource\\\\resource\\\\equipment\\\\BadMsg.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\deviceResource\\\\resource\\\\equipment\\\\BadMsg.vue",
         "chunkName": "pages/deviceResource/resource/equipment/BadMsg",
-        "_name": "_338b4922"
+        "_name": "_5b1bf28d"
       },
       {
         "name": "deviceResource-resource-fourPopup-JianCe",
         "path": "fourPopup/JianCe",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\deviceResource\\\\resource\\\\fourPopup\\\\JianCe.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\deviceResource\\\\resource\\\\fourPopup\\\\JianCe.vue",
         "chunkName": "pages/deviceResource/resource/fourPopup/JianCe",
-        "_name": "_386068a8"
+        "_name": "_0b607517"
       },
       {
         "name": "deviceResource-resource-fourPopup-SanKua",
         "path": "fourPopup/SanKua",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\deviceResource\\\\resource\\\\fourPopup\\\\SanKua.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\deviceResource\\\\resource\\\\fourPopup\\\\SanKua.vue",
         "chunkName": "pages/deviceResource/resource/fourPopup/SanKua",
-        "_name": "_38506c35"
+        "_name": "_5fe115a0"
       },
       {
         "name": "deviceResource-resource-fourPopup-ZiYuan",
         "path": "fourPopup/ZiYuan",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\deviceResource\\\\resource\\\\fourPopup\\\\ZiYuan.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\deviceResource\\\\resource\\\\fourPopup\\\\ZiYuan.vue",
         "chunkName": "pages/deviceResource/resource/fourPopup/ZiYuan",
-        "_name": "_e14d68d4"
+        "_name": "_922c15fe"
       },
       {
         "name": "deviceResource-resource-fourPopup-ZuoYe",
         "path": "fourPopup/ZuoYe",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\deviceResource\\\\resource\\\\fourPopup\\\\ZuoYe.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\deviceResource\\\\resource\\\\fourPopup\\\\ZuoYe.vue",
         "chunkName": "pages/deviceResource/resource/fourPopup/ZuoYe",
-        "_name": "_6053dfb2"
+        "_name": "_faba4632"
       }
     ],
-    "_name": "_6588f010"
+    "_name": "_39c04f26"
   },
   {
     "name": "deviceResource-threeCross",
     "path": "/deviceResource/threeCross",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\deviceResource\\\\threeCross.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\deviceResource\\\\threeCross.vue",
     "chunkName": "pages/deviceResource/threeCross",
     "children": [
       {
         "name": "deviceResource-threeCross-tc",
         "path": "tc",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\deviceResource\\\\threeCross\\\\tc.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\deviceResource\\\\threeCross\\\\tc.vue",
         "chunkName": "pages/deviceResource/threeCross/tc",
-        "_name": "_93dad9ca"
+        "_name": "_1e981060"
       }
     ],
-    "_name": "_429a12ac"
+    "_name": "_70ac19e1"
   },
   {
     "name": "deviceResource-threeD",
     "path": "/deviceResource/threeD",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\deviceResource\\\\threeD.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\deviceResource\\\\threeD.vue",
     "chunkName": "pages/deviceResource/threeD",
-    "_name": "_90a45a60"
+    "_name": "_083486f6"
   },
   {
     "name": "main-Header",
     "path": "/main/Header",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\main\\\\Header.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\main\\\\Header.vue",
     "chunkName": "pages/main/Header",
-    "_name": "_4a0deecc"
+    "_name": "_493786c1"
   },
   {
     "name": "main-Left",
     "path": "/main/Left",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\main\\\\Left.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\main\\\\Left.vue",
     "chunkName": "pages/main/Left",
-    "_name": "_7fd385f4"
+    "_name": "_653f4e3b"
   },
   {
     "name": "panoramicMonitoring-gridDisaster",
     "path": "/panoramicMonitoring/gridDisaster",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\panoramicMonitoring\\\\gridDisaster.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\panoramicMonitoring\\\\gridDisaster.vue",
     "chunkName": "pages/panoramicMonitoring/gridDisaster",
     "children": [
       {
         "name": "panoramicMonitoring-gridDisaster-dialogDetail",
         "path": "dialogDetail",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\panoramicMonitoring\\\\gridDisaster\\\\dialogDetail.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\panoramicMonitoring\\\\gridDisaster\\\\dialogDetail.vue",
         "chunkName": "pages/panoramicMonitoring/gridDisaster/dialogDetail",
-        "_name": "_377a5e90"
+        "_name": "_173acca3"
       },
       {
         "name": "panoramicMonitoring-gridDisaster-dialogInfo",
         "path": "dialogInfo",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\panoramicMonitoring\\\\gridDisaster\\\\dialogInfo.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\panoramicMonitoring\\\\gridDisaster\\\\dialogInfo.vue",
         "chunkName": "pages/panoramicMonitoring/gridDisaster/dialogInfo",
-        "_name": "_19bc2356"
+        "_name": "_792de900"
       },
       {
         "name": "panoramicMonitoring-gridDisaster-dialogWeather",
         "path": "dialogWeather",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\panoramicMonitoring\\\\gridDisaster\\\\dialogWeather.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\panoramicMonitoring\\\\gridDisaster\\\\dialogWeather.vue",
         "chunkName": "pages/panoramicMonitoring/gridDisaster/dialogWeather",
-        "_name": "_2878041d"
+        "_name": "_547f8592"
       }
     ],
-    "_name": "_73994e3f"
+    "_name": "_571fb16a"
   },
   {
     "name": "panoramicMonitoring-videoSurveillance",
     "path": "/panoramicMonitoring/videoSurveillance",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\panoramicMonitoring\\\\videoSurveillance.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\panoramicMonitoring\\\\videoSurveillance.vue",
     "chunkName": "pages/panoramicMonitoring/videoSurveillance",
-    "_name": "_f6fb2f28"
+    "_name": "_1de24821"
   },
   {
     "name": "panoramicMonitoring-visualChannelMonitoring",
     "path": "/panoramicMonitoring/visualChannelMonitoring",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\panoramicMonitoring\\\\visualChannelMonitoring.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\panoramicMonitoring\\\\visualChannelMonitoring.vue",
     "chunkName": "pages/panoramicMonitoring/visualChannelMonitoring",
-    "_name": "_04cb4483"
+    "_name": "_61606f10"
   },
   {
     "name": "public-barChart",
     "path": "/public/barChart",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\public\\\\barChart.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\public\\\\barChart.vue",
     "chunkName": "pages/public/barChart",
-    "_name": "_39c1581a"
+    "_name": "_4c7824e2"
   },
   {
     "name": "public-lineChart",
     "path": "/public/lineChart",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\public\\\\lineChart.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\public\\\\lineChart.vue",
     "chunkName": "pages/public/lineChart",
-    "_name": "_dce4cd6a"
+    "_name": "_1c449b14"
   },
   {
     "name": "public-pieChart",
     "path": "/public/pieChart",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\public\\\\pieChart.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\public\\\\pieChart.vue",
     "chunkName": "pages/public/pieChart",
-    "_name": "_36398a7e"
+    "_name": "_f6345f94"
   },
   {
     "name": "public-publicDetail",
     "path": "/public/publicDetail",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\public\\\\publicDetail.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\public\\\\publicDetail.vue",
     "chunkName": "pages/public/publicDetail",
-    "_name": "_53f669a9"
+    "_name": "_5d173c9e"
   },
   {
     "name": "public-publicDialog",
     "path": "/public/publicDialog",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\public\\\\publicDialog.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\public\\\\publicDialog.vue",
     "chunkName": "pages/public/publicDialog",
-    "_name": "_3f2cfb20"
+    "_name": "_484dce15"
   },
   {
     "name": "public-publicDialogMulti",
     "path": "/public/publicDialogMulti",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\public\\\\publicDialogMulti.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\public\\\\publicDialogMulti.vue",
     "chunkName": "pages/public/publicDialogMulti",
-    "_name": "_99cba0ae"
+    "_name": "_59bfedd4"
   },
   {
     "name": "public-publicForm",
     "path": "/public/publicForm",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\public\\\\publicForm.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\public\\\\publicForm.vue",
     "chunkName": "pages/public/publicForm",
-    "_name": "_548c86c8"
+    "_name": "_7f6cc8d1"
   },
   {
     "name": "public-publicTransition",
     "path": "/public/publicTransition",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\public\\\\publicTransition.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\public\\\\publicTransition.vue",
     "chunkName": "pages/public/publicTransition",
-    "_name": "_23b806a6"
+    "_name": "_04084d22"
   },
   {
     "name": "system-menuSys",
     "path": "/system/menuSys",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\system\\\\menuSys.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\system\\\\menuSys.vue",
     "chunkName": "pages/system/menuSys",
-    "_name": "_07c73029"
+    "_name": "_dddccfd8"
   },
   {
     "name": "system-message",
     "path": "/system/message",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\system\\\\message.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\system\\\\message.vue",
     "chunkName": "pages/system/message",
     "children": [
       {
         "name": "system-message-m",
         "path": "m",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\system\\\\message\\\\m.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\system\\\\message\\\\m.vue",
         "chunkName": "pages/system/message/m",
-        "_name": "_926e2eca"
+        "_name": "_607bf4d0"
       }
     ],
-    "_name": "_3b148a7c"
+    "_name": "_6bc022ad"
   },
   {
     "name": "system-organization",
     "path": "/system/organization",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\system\\\\organization.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\system\\\\organization.vue",
     "chunkName": "pages/system/organization",
     "children": [
       {
         "name": "system-organization-or",
         "path": "or",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\system\\\\organization\\\\or.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\system\\\\organization\\\\or.vue",
         "chunkName": "pages/system/organization/or",
-        "_name": "_702b906b"
+        "_name": "_f3e03e40"
       }
     ],
-    "_name": "_16338ef0"
+    "_name": "_03f1e906"
   },
   {
     "name": "system-orgTree",
     "path": "/system/orgTree",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\system\\\\orgTree.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\system\\\\orgTree.vue",
     "chunkName": "pages/system/orgTree",
-    "_name": "_6c6079dd"
+    "_name": "_14aa3c70"
   },
   {
     "name": "system-person",
     "path": "/system/person",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\system\\\\person.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\system\\\\person.vue",
     "chunkName": "pages/system/person",
     "children": [
       {
         "name": "system-person-pe",
         "path": "pe",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\system\\\\person\\\\pe.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\system\\\\person\\\\pe.vue",
         "chunkName": "pages/system/person/pe",
-        "_name": "_3959755f"
+        "_name": "_39e6fcd8"
       }
     ],
-    "_name": "_0814b76a"
+    "_name": "_398fb3c2"
   },
   {
     "name": "system-role",
     "path": "/system/role",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\system\\\\role.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\system\\\\role.vue",
     "chunkName": "pages/system/role",
     "children": [
       {
         "name": "system-role-ro",
         "path": "ro",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\system\\\\role\\\\ro.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\system\\\\role\\\\ro.vue",
         "chunkName": "pages/system/role/ro",
-        "_name": "_66408108"
+        "_name": "_0643167d"
       }
     ],
-    "_name": "_aec4016a"
+    "_name": "_b070d180"
   },
   {
     "name": "system-standardizedKnowledge",
     "path": "/system/standardizedKnowledge",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\system\\\\standardizedKnowledge.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\system\\\\standardizedKnowledge.vue",
     "chunkName": "pages/system/standardizedKnowledge",
-    "_name": "_4eac9ca8"
+    "_name": "_1c9e6257"
   },
   {
     "name": "transportationInspection-defect",
     "path": "/transportationInspection/defect",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\defect.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\defect.vue",
     "chunkName": "pages/transportationInspection/defect",
     "children": [
       {
         "name": "transportationInspection-defect-defectMap",
         "path": "defectMap",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\defect\\\\defectMap.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\defect\\\\defectMap.vue",
         "chunkName": "pages/transportationInspection/defect/defectMap",
-        "_name": "_0898fca4"
+        "_name": "_3029a60f"
       },
       {
         "name": "transportationInspection-defect-defectStatistics",
         "path": "defectStatistics",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\defect\\\\defectStatistics.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\defect\\\\defectStatistics.vue",
         "chunkName": "pages/transportationInspection/defect/defectStatistics",
         "children": [
           {
             "name": "transportationInspection-defect-defectStatistics-defectCheck",
             "path": "defectCheck",
-            "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\defect\\\\defectStatistics\\\\defectCheck.vue",
+            "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\defect\\\\defectStatistics\\\\defectCheck.vue",
             "chunkName": "pages/transportationInspection/defect/defectStatistics/defectCheck",
-            "_name": "_01e7919c"
+            "_name": "_010f50f2"
           },
           {
             "name": "transportationInspection-defect-defectStatistics-defectClear",
             "path": "defectClear",
-            "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\defect\\\\defectStatistics\\\\defectClear.vue",
+            "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\defect\\\\defectStatistics\\\\defectClear.vue",
             "chunkName": "pages/transportationInspection/defect/defectStatistics/defectClear",
-            "_name": "_c3358f3e"
+            "_name": "_c8140368"
           },
           {
             "name": "transportationInspection-defect-defectStatistics-defectDisplay",
             "path": "defectDisplay",
-            "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\defect\\\\defectStatistics\\\\defectDisplay.vue",
+            "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\defect\\\\defectStatistics\\\\defectDisplay.vue",
             "chunkName": "pages/transportationInspection/defect/defectStatistics/defectDisplay",
-            "_name": "_c4c66d54"
+            "_name": "_7a13c081"
           },
           {
             "name": "transportationInspection-defect-defectStatistics-ds",
             "path": "ds",
-            "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\defect\\\\defectStatistics\\\\ds.vue",
+            "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\defect\\\\defectStatistics\\\\ds.vue",
             "chunkName": "pages/transportationInspection/defect/defectStatistics/ds",
-            "_name": "_3343e89a"
+            "_name": "_2f1fbe4f"
           }
         ],
-        "_name": "_0acffcea"
+        "_name": "_42c4f9c0"
       }
     ],
-    "_name": "_3941e457"
+    "_name": "_511cefcc"
   },
   {
     "name": "transportationInspection-fault",
     "path": "/transportationInspection/fault",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\fault.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\fault.vue",
     "chunkName": "pages/transportationInspection/fault",
     "children": [
       {
         "name": "transportationInspection-fault-faultMap",
         "path": "faultMap",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\fault\\\\faultMap.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\fault\\\\faultMap.vue",
         "chunkName": "pages/transportationInspection/fault/faultMap",
-        "_name": "_7d717e86"
+        "_name": "_4d38f29e"
       },
       {
         "name": "transportationInspection-fault-faultStatistics",
         "path": "faultStatistics",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\fault\\\\faultStatistics.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\fault\\\\faultStatistics.vue",
         "chunkName": "pages/transportationInspection/fault/faultStatistics",
         "children": [
           {
             "name": "transportationInspection-fault-faultStatistics-faultClear",
             "path": "faultClear",
-            "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\fault\\\\faultStatistics\\\\faultClear.vue",
+            "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\fault\\\\faultStatistics\\\\faultClear.vue",
             "chunkName": "pages/transportationInspection/fault/faultStatistics/faultClear",
-            "_name": "_74462b34"
+            "_name": "_5413b5ae"
           },
           {
             "name": "transportationInspection-fault-faultStatistics-fs",
             "path": "fs",
-            "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\fault\\\\faultStatistics\\\\fs.vue",
+            "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\fault\\\\faultStatistics\\\\fs.vue",
             "chunkName": "pages/transportationInspection/fault/faultStatistics/fs",
-            "_name": "_19fe76b6"
+            "_name": "_0ace35ab"
           }
         ],
-        "_name": "_0f25fd69"
+        "_name": "_3b2d7ede"
       }
     ],
-    "_name": "_9dc59da8"
+    "_name": "_6aaf39d2"
   },
   {
     "name": "transportationInspection-fixedConstructionSite",
     "path": "/transportationInspection/fixedConstructionSite",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\fixedConstructionSite.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\fixedConstructionSite.vue",
     "chunkName": "pages/transportationInspection/fixedConstructionSite",
     "children": [
       {
         "name": "transportationInspection-fixedConstructionSite-fcs",
         "path": "fcs",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\fixedConstructionSite\\\\fcs.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\fixedConstructionSite\\\\fcs.vue",
         "chunkName": "pages/transportationInspection/fixedConstructionSite/fcs",
-        "_name": "_2a30db70"
+        "_name": "_1b009a65"
       },
       {
         "name": "transportationInspection-fixedConstructionSite-fixedConstructionSiteMap",
         "path": "fixedConstructionSiteMap",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\fixedConstructionSite\\\\fixedConstructionSiteMap.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\fixedConstructionSite\\\\fixedConstructionSiteMap.vue",
         "chunkName": "pages/transportationInspection/fixedConstructionSite/fixedConstructionSiteMap",
-        "_name": "_8188ec74"
+        "_name": "_976bb41e"
       },
       {
         "name": "transportationInspection-fixedConstructionSite-fixedConstructionSiteTable",
         "path": "fixedConstructionSiteTable",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\fixedConstructionSite\\\\fixedConstructionSiteTable.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\fixedConstructionSite\\\\fixedConstructionSiteTable.vue",
         "chunkName": "pages/transportationInspection/fixedConstructionSite/fixedConstructionSiteTable",
-        "_name": "_7084eab8"
+        "_name": "_5c5d2823"
       }
     ],
-    "_name": "_14e6f554"
+    "_name": "_28848141"
   },
   {
     "name": "transportationInspection-hiddenDanger",
     "path": "/transportationInspection/hiddenDanger",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\hiddenDanger.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\hiddenDanger.vue",
     "chunkName": "pages/transportationInspection/hiddenDanger",
     "children": [
       {
         "name": "transportationInspection-hiddenDanger-hiddenDangerMap",
         "path": "hiddenDangerMap",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\hiddenDanger\\\\hiddenDangerMap.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\hiddenDanger\\\\hiddenDangerMap.vue",
         "chunkName": "pages/transportationInspection/hiddenDanger/hiddenDangerMap",
-        "_name": "_5f5e9328"
+        "_name": "_4fef9757"
       },
       {
         "name": "transportationInspection-hiddenDanger-hiddenDangerStatistics",
         "path": "hiddenDangerStatistics",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\hiddenDanger\\\\hiddenDangerStatistics.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\hiddenDanger\\\\hiddenDangerStatistics.vue",
         "chunkName": "pages/transportationInspection/hiddenDanger/hiddenDangerStatistics",
         "children": [
           {
             "name": "transportationInspection-hiddenDanger-hiddenDangerStatistics-hiddenDangerClear",
             "path": "hiddenDangerClear",
-            "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\hiddenDanger\\\\hiddenDangerStatistics\\\\hiddenDangerClear.vue",
+            "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\hiddenDanger\\\\hiddenDangerStatistics\\\\hiddenDangerClear.vue",
             "chunkName": "pages/transportationInspection/hiddenDanger/hiddenDangerStatistics/hiddenDangerClear",
-            "_name": "_1280aeed"
+            "_name": "_969c1fd0"
           },
           {
             "name": "transportationInspection-hiddenDanger-hiddenDangerStatistics-hs",
             "path": "hs",
-            "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\hiddenDanger\\\\hiddenDangerStatistics\\\\hs.vue",
+            "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\hiddenDanger\\\\hiddenDangerStatistics\\\\hs.vue",
             "chunkName": "pages/transportationInspection/hiddenDanger/hiddenDangerStatistics/hs",
-            "_name": "_a569b764"
+            "_name": "_5fb31283"
           }
         ],
-        "_name": "_485936c3"
+        "_name": "_041af110"
       }
     ],
-    "_name": "_731022d3"
+    "_name": "_0c700288"
   },
   {
     "name": "transportationInspection-outagePlan",
     "path": "/transportationInspection/outagePlan",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\outagePlan.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\outagePlan.vue",
     "chunkName": "pages/transportationInspection/outagePlan",
-    "_name": "_9c5095c0"
+    "_name": "_05a5fe15"
   },
   {
     "name": "common-formComponents-FormSelect",
     "path": "/common/formComponents/FormSelect",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\common\\\\formComponents\\\\FormSelect.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\common\\\\formComponents\\\\FormSelect.vue",
     "chunkName": "pages/common/formComponents/FormSelect",
-    "_name": "_753ec96a"
+    "_name": "_52a69d80"
   },
   {
     "name": "panoramicMonitoring-deviceOnlineMonitoring-account",
     "path": "/panoramicMonitoring/deviceOnlineMonitoring/account",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\account.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\account.vue",
     "chunkName": "pages/panoramicMonitoring/deviceOnlineMonitoring/account",
     "children": [
       {
         "name": "panoramicMonitoring-deviceOnlineMonitoring-account-ac",
         "path": "ac",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\account\\\\ac.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\account\\\\ac.vue",
         "chunkName": "pages/panoramicMonitoring/deviceOnlineMonitoring/account/ac",
-        "_name": "_55559a94"
+        "_name": "_49926f2b"
       }
     ],
-    "_name": "_c98a8bd8"
+    "_name": "_e7eb0dee"
   },
   {
     "name": "panoramicMonitoring-deviceOnlineMonitoring-alarm",
     "path": "/panoramicMonitoring/deviceOnlineMonitoring/alarm",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\alarm.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\alarm.vue",
     "chunkName": "pages/panoramicMonitoring/deviceOnlineMonitoring/alarm",
     "children": [
       {
         "name": "panoramicMonitoring-deviceOnlineMonitoring-alarm-al",
         "path": "al",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\alarm\\\\al.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\alarm\\\\al.vue",
         "chunkName": "pages/panoramicMonitoring/deviceOnlineMonitoring/alarm/al",
-        "_name": "_20925a23"
+        "_name": "_1c6e2fd8"
       },
       {
         "name": "panoramicMonitoring-deviceOnlineMonitoring-alarm-alarmPatrol",
         "path": "alarmPatrol",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\alarm\\\\alarmPatrol.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\alarm\\\\alarmPatrol.vue",
         "chunkName": "pages/panoramicMonitoring/deviceOnlineMonitoring/alarm/alarmPatrol",
-        "_name": "_3cd6f196"
+        "_name": "_41b565c0"
       }
     ],
-    "_name": "_e832c010"
+    "_name": "_57d8cfa6"
   },
   {
     "name": "panoramicMonitoring-deviceOnlineMonitoring-alarmRule",
     "path": "/panoramicMonitoring/deviceOnlineMonitoring/alarmRule",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\alarmRule.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\alarmRule.vue",
     "chunkName": "pages/panoramicMonitoring/deviceOnlineMonitoring/alarmRule",
     "children": [
       {
         "name": "panoramicMonitoring-deviceOnlineMonitoring-alarmRule-alR",
         "path": "alR",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\alarmRule\\\\alR.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\alarmRule\\\\alR.vue",
         "chunkName": "pages/panoramicMonitoring/deviceOnlineMonitoring/alarmRule/alR",
-        "_name": "_6798e823"
+        "_name": "_49b75b8e"
       }
     ],
-    "_name": "_4ea50d14"
+    "_name": "_4a80e2c9"
   },
   {
     "name": "panoramicMonitoring-deviceOnlineMonitoring-center",
     "path": "/panoramicMonitoring/deviceOnlineMonitoring/center",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\center.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\center.vue",
     "chunkName": "pages/panoramicMonitoring/deviceOnlineMonitoring/center",
     "children": [
       {
         "name": "panoramicMonitoring-deviceOnlineMonitoring-center-omChart",
         "path": "omChart",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\center\\\\omChart.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\center\\\\omChart.vue",
         "chunkName": "pages/panoramicMonitoring/deviceOnlineMonitoring/center/omChart",
-        "_name": "_b75e835c"
+        "_name": "_0600b847"
       },
       {
         "name": "panoramicMonitoring-deviceOnlineMonitoring-center-omDialog",
         "path": "omDialog",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\center\\\\omDialog.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\center\\\\omDialog.vue",
         "chunkName": "pages/panoramicMonitoring/deviceOnlineMonitoring/center/omDialog",
         "children": [
           {
             "name": "panoramicMonitoring-deviceOnlineMonitoring-center-omDialog-omTree",
             "path": "omTree",
-            "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\center\\\\omDialog\\\\omTree.vue",
+            "component": "G:\\\\tlii\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\center\\\\omDialog\\\\omTree.vue",
             "chunkName": "pages/panoramicMonitoring/deviceOnlineMonitoring/center/omDialog/omTree",
-            "_name": "_5323fca0"
+            "_name": "_c0b5336a"
           }
         ],
-        "_name": "_2b69d484"
+        "_name": "_008dcda2"
       },
       {
         "name": "panoramicMonitoring-deviceOnlineMonitoring-center-omTable",
         "path": "omTable",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\center\\\\omTable.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\center\\\\omTable.vue",
         "chunkName": "pages/panoramicMonitoring/deviceOnlineMonitoring/center/omTable",
-        "_name": "_60ecab7c"
+        "_name": "_3139a437"
       }
     ],
-    "_name": "_71d3babe"
+    "_name": "_2f45c929"
   },
   {
     "name": "panoramicMonitoring-deviceOnlineMonitoring-query",
     "path": "/panoramicMonitoring/deviceOnlineMonitoring/query",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\query.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\query.vue",
     "chunkName": "pages/panoramicMonitoring/deviceOnlineMonitoring/query",
     "children": [
       {
         "name": "panoramicMonitoring-deviceOnlineMonitoring-query-dialogTable",
         "path": "dialogTable",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\query\\\\dialogTable.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\query\\\\dialogTable.vue",
         "chunkName": "pages/panoramicMonitoring/deviceOnlineMonitoring/query/dialogTable",
-        "_name": "_55cb7c87"
+        "_name": "_535c4272"
       },
       {
         "name": "panoramicMonitoring-deviceOnlineMonitoring-query-queryTable",
         "path": "queryTable",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\query\\\\queryTable.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\query\\\\queryTable.vue",
         "chunkName": "pages/panoramicMonitoring/deviceOnlineMonitoring/query/queryTable",
         "children": [
           {
             "name": "panoramicMonitoring-deviceOnlineMonitoring-query-queryTable-omTable",
             "path": "omTable",
-            "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\query\\\\queryTable\\\\omTable.vue",
+            "component": "G:\\\\tlii\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\query\\\\queryTable\\\\omTable.vue",
             "chunkName": "pages/panoramicMonitoring/deviceOnlineMonitoring/query/queryTable/omTable",
-            "_name": "_1c7613ea"
+            "_name": "_2392a0f6"
           }
         ],
-        "_name": "_52394e56"
+        "_name": "_e706acec"
       },
       {
         "name": "panoramicMonitoring-deviceOnlineMonitoring-query-queryTree",
         "path": "queryTree",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\query\\\\queryTree.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\panoramicMonitoring\\\\deviceOnlineMonitoring\\\\query\\\\queryTree.vue",
         "chunkName": "pages/panoramicMonitoring/deviceOnlineMonitoring/query/queryTree",
-        "_name": "_3405bbe7"
+        "_name": "_08550092"
       }
     ],
-    "_name": "_4b5a2aef"
+    "_name": "_d8f1b9b8"
   },
   {
     "name": "system-log-log",
     "path": "/system/log/log",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\system\\\\log\\\\log.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\system\\\\log\\\\log.vue",
     "chunkName": "pages/system/log/log",
-    "_name": "_f5d81b56"
+    "_name": "_251687ca"
   },
   {
     "name": "system-log-loginLog",
     "path": "/system/log/loginLog",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\system\\\\log\\\\loginLog.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\system\\\\log\\\\loginLog.vue",
     "chunkName": "pages/system/log/loginLog",
-    "_name": "_8162ed4c"
+    "_name": "_4b6fd5f6"
   },
   {
     "name": "system-log-loginLogTable",
     "path": "/system/log/loginLogTable",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\system\\\\log\\\\loginLogTable.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\system\\\\log\\\\loginLogTable.vue",
     "chunkName": "pages/system/log/loginLogTable",
-    "_name": "_b7b6ec78"
+    "_name": "_5b92de0e"
   },
   {
     "name": "system-log-logTable",
     "path": "/system/log/logTable",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\system\\\\log\\\\logTable.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\system\\\\log\\\\logTable.vue",
     "chunkName": "pages/system/log/logTable",
-    "_name": "_545ef4ae"
+    "_name": "_1e6bdd58"
   },
   {
     "name": "system-menu-me",
     "path": "/system/menu/me",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\system\\\\menu\\\\me.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\system\\\\menu\\\\me.vue",
     "chunkName": "pages/system/menu/me",
-    "_name": "_dac41268"
+    "_name": "_32a08c41"
   },
   {
     "name": "transportationInspection-monitor-monitorResultHandle",
     "path": "/transportationInspection/monitor/monitorResultHandle",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\monitor\\\\monitorResultHandle.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\monitor\\\\monitorResultHandle.vue",
     "chunkName": "pages/transportationInspection/monitor/monitorResultHandle",
     "children": [
       {
         "name": "transportationInspection-monitor-monitorResultHandle-taskRight",
         "path": "taskRight",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\monitor\\\\monitorResultHandle\\\\taskRight.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\monitor\\\\monitorResultHandle\\\\taskRight.vue",
         "chunkName": "pages/transportationInspection/monitor/monitorResultHandle/taskRight",
-        "_name": "_b3c05a08"
+        "_name": "_fad26bb2"
       },
       {
         "name": "transportationInspection-monitor-monitorResultHandle-taskTree",
         "path": "taskTree",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\monitor\\\\monitorResultHandle\\\\taskTree.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\monitor\\\\monitorResultHandle\\\\taskTree.vue",
         "chunkName": "pages/transportationInspection/monitor/monitorResultHandle/taskTree",
-        "_name": "_83f09c24"
+        "_name": "_728fa963"
       }
     ],
-    "_name": "_ced48e2a"
+    "_name": "_d71ce2c0"
   },
   {
     "name": "transportationInspection-monitor-monitorTask",
     "path": "/transportationInspection/monitor/monitorTask",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\monitor\\\\monitorTask.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\monitor\\\\monitorTask.vue",
     "chunkName": "pages/transportationInspection/monitor/monitorTask",
     "children": [
       {
         "name": "transportationInspection-monitor-monitorTask-mt",
         "path": "mt",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\monitor\\\\monitorTask\\\\mt.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\monitor\\\\monitorTask\\\\mt.vue",
         "chunkName": "pages/transportationInspection/monitor/monitorTask/mt",
-        "_name": "_5949a01c"
+        "_name": "_1b882827"
       }
     ],
-    "_name": "_b92e986a"
+    "_name": "_4247e300"
   },
   {
     "name": "transportationInspection-patrol-inspectionCycle",
     "path": "/transportationInspection/patrol/inspectionCycle",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\patrol\\\\inspectionCycle.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\patrol\\\\inspectionCycle.vue",
     "chunkName": "pages/transportationInspection/patrol/inspectionCycle",
     "children": [
       {
         "name": "transportationInspection-patrol-inspectionCycle-ic",
         "path": "ic",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\patrol\\\\inspectionCycle\\\\ic.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\patrol\\\\inspectionCycle\\\\ic.vue",
         "chunkName": "pages/transportationInspection/patrol/inspectionCycle/ic",
-        "_name": "_ccd918ac"
+        "_name": "_7a88d956"
       }
     ],
-    "_name": "_cff0d7e0"
+    "_name": "_261f7d8a"
   },
   {
     "name": "transportationInspection-patrol-inspectionTask",
     "path": "/transportationInspection/patrol/inspectionTask",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\patrol\\\\inspectionTask.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\patrol\\\\inspectionTask.vue",
     "chunkName": "pages/transportationInspection/patrol/inspectionTask",
     "children": [
       {
         "name": "transportationInspection-patrol-inspectionTask-it",
         "path": "it",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\patrol\\\\inspectionTask\\\\it.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\patrol\\\\inspectionTask\\\\it.vue",
         "chunkName": "pages/transportationInspection/patrol/inspectionTask/it",
-        "_name": "_48965d14"
+        "_name": "_66f6df2a"
       }
     ],
-    "_name": "_39b7b7cb"
+    "_name": "_65bf3940"
   },
   {
     "name": "transportationInspection-patrol-mannedMission",
     "path": "/transportationInspection/patrol/mannedMission",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\patrol\\\\mannedMission.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\patrol\\\\mannedMission.vue",
     "chunkName": "pages/transportationInspection/patrol/mannedMission",
     "children": [
       {
         "name": "transportationInspection-patrol-mannedMission-mm",
         "path": "mm",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\patrol\\\\mannedMission\\\\mm.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\patrol\\\\mannedMission\\\\mm.vue",
         "chunkName": "pages/transportationInspection/patrol/mannedMission/mm",
-        "_name": "_b2e6c812"
+        "_name": "_63feaa62"
       }
     ],
-    "_name": "_7b52ea57"
+    "_name": "_a36a337c"
   },
   {
     "name": "transportationInspection-patrol-patrolQuery",
     "path": "/transportationInspection/patrol/patrolQuery",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\patrol\\\\patrolQuery.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\patrol\\\\patrolQuery.vue",
     "chunkName": "pages/transportationInspection/patrol/patrolQuery",
-    "_name": "_a65b17cc"
+    "_name": "_32de6ec5"
   },
   {
     "name": "transportationInspection-tool-toolInventory",
     "path": "/transportationInspection/tool/toolInventory",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\tool\\\\toolInventory.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\tool\\\\toolInventory.vue",
     "chunkName": "pages/transportationInspection/tool/toolInventory",
     "children": [
       {
         "name": "transportationInspection-tool-toolInventory-ti",
         "path": "ti",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\tool\\\\toolInventory\\\\ti.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\tool\\\\toolInventory\\\\ti.vue",
         "chunkName": "pages/transportationInspection/tool/toolInventory/ti",
-        "_name": "_40dffd8b"
+        "_name": "_d46eaa94"
       }
     ],
-    "_name": "_4a1e3516"
+    "_name": "_5faba07e"
   },
   {
     "name": "transportationInspection-tool-toolReceive",
     "path": "/transportationInspection/tool/toolReceive",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\tool\\\\toolReceive.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\tool\\\\toolReceive.vue",
     "chunkName": "pages/transportationInspection/tool/toolReceive",
     "children": [
       {
         "name": "transportationInspection-tool-toolReceive-tre",
         "path": "tre",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\tool\\\\toolReceive\\\\tre.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\tool\\\\toolReceive\\\\tre.vue",
         "chunkName": "pages/transportationInspection/tool/toolReceive/tre",
-        "_name": "_cf21f14c"
+        "_name": "_7712ee62"
       }
     ],
-    "_name": "_0dfc58c6"
+    "_name": "_20927d08"
   },
   {
     "name": "transportationInspection-tool-toolReturn",
     "path": "/transportationInspection/tool/toolReturn",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\tool\\\\toolReturn.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\tool\\\\toolReturn.vue",
     "chunkName": "pages/transportationInspection/tool/toolReturn",
     "children": [
       {
         "name": "transportationInspection-tool-toolReturn-tre",
         "path": "tre",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\tool\\\\toolReturn\\\\tre.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\tool\\\\toolReturn\\\\tre.vue",
         "chunkName": "pages/transportationInspection/tool/toolReturn/tre",
-        "_name": "_274b1cb1"
+        "_name": "_5a43189c"
       }
     ],
-    "_name": "_d4f4f834"
+    "_name": "_9056fdca"
   },
   {
     "name": "transportationInspection-tool-toolWarehouse",
     "path": "/transportationInspection/tool/toolWarehouse",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\tool\\\\toolWarehouse.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\tool\\\\toolWarehouse.vue",
     "chunkName": "pages/transportationInspection/tool/toolWarehouse",
     "children": [
       {
         "name": "transportationInspection-tool-toolWarehouse-tw",
         "path": "tw",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\tool\\\\toolWarehouse\\\\tw.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\tool\\\\toolWarehouse\\\\tw.vue",
         "chunkName": "pages/transportationInspection/tool/toolWarehouse/tw",
-        "_name": "_2447de00"
+        "_name": "_42c4be2b"
       }
     ],
-    "_name": "_5ab04afd"
+    "_name": "_3e8774b0"
   },
   {
     "name": "transportationInspection-UAVInspection-defectIdentification",
     "path": "/transportationInspection/UAVInspection/defectIdentification",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\defectIdentification.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\defectIdentification.vue",
     "chunkName": "pages/transportationInspection/UAVInspection/defectIdentification",
-    "_name": "_cd264cb2"
+    "_name": "_6dbc1e52"
   },
   {
     "name": "transportationInspection-UAVInspection-inspectionImageRecognition",
     "path": "/transportationInspection/UAVInspection/inspectionImageRecognition",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspectionImageRecognition.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspectionImageRecognition.vue",
     "chunkName": "pages/transportationInspection/UAVInspection/inspectionImageRecognition",
     "children": [
       {
         "name": "transportationInspection-UAVInspection-inspectionImageRecognition-imageDialog",
         "path": "imageDialog",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspectionImageRecognition\\\\imageDialog.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspectionImageRecognition\\\\imageDialog.vue",
         "chunkName": "pages/transportationInspection/UAVInspection/inspectionImageRecognition/imageDialog",
-        "_name": "_a69faa4a"
+        "_name": "_360c9850"
       },
       {
         "name": "transportationInspection-UAVInspection-inspectionImageRecognition-loadImage",
         "path": "loadImage",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspectionImageRecognition\\\\loadImage.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspectionImageRecognition\\\\loadImage.vue",
         "chunkName": "pages/transportationInspection/UAVInspection/inspectionImageRecognition/loadImage",
-        "_name": "_8b7fd926"
+        "_name": "_3b535a22"
       }
     ],
-    "_name": "_1a7d2fd8"
+    "_name": "_95d9ef7a"
   },
   {
     "name": "transportationInspection-UAVInspection-inspectionResult",
     "path": "/transportationInspection/UAVInspection/inspectionResult",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspectionResult.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspectionResult.vue",
     "chunkName": "pages/transportationInspection/UAVInspection/inspectionResult",
-    "_name": "_35c6d519"
+    "_name": "_49312744"
   },
   {
     "name": "transportationInspection-UAVInspection-inspectionResultHandle",
     "path": "/transportationInspection/UAVInspection/inspectionResultHandle",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspectionResultHandle.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspectionResultHandle.vue",
     "chunkName": "pages/transportationInspection/UAVInspection/inspectionResultHandle",
     "children": [
       {
         "name": "transportationInspection-UAVInspection-inspectionResultHandle-checkImage",
         "path": "checkImage",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspectionResultHandle\\\\checkImage.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspectionResultHandle\\\\checkImage.vue",
         "chunkName": "pages/transportationInspection/UAVInspection/inspectionResultHandle/checkImage",
-        "_name": "_3c493454"
+        "_name": "_282171bf"
       },
       {
         "name": "transportationInspection-UAVInspection-inspectionResultHandle-irhRight",
         "path": "irhRight",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspectionResultHandle\\\\irhRight.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspectionResultHandle\\\\irhRight.vue",
         "chunkName": "pages/transportationInspection/UAVInspection/inspectionResultHandle/irhRight",
-        "_name": "_642c115e"
+        "_name": "_593aad89"
       },
       {
         "name": "transportationInspection-UAVInspection-inspectionResultHandle-irhTable",
         "path": "irhTable",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspectionResultHandle\\\\irhTable.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspectionResultHandle\\\\irhTable.vue",
         "chunkName": "pages/transportationInspection/UAVInspection/inspectionResultHandle/irhTable",
-        "_name": "_4b2c6210"
+        "_name": "_403afe3b"
       },
       {
         "name": "transportationInspection-UAVInspection-inspectionResultHandle-irhTree",
         "path": "irhTree",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspectionResultHandle\\\\irhTree.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspectionResultHandle\\\\irhTree.vue",
         "chunkName": "pages/transportationInspection/UAVInspection/inspectionResultHandle/irhTree",
-        "_name": "_77adc168"
+        "_name": "_67de5c7e"
       }
     ],
-    "_name": "_5aca26a1"
+    "_name": "_585aec8c"
   },
   {
     "name": "transportationInspection-UAVInspection-queryStatistics",
     "path": "/transportationInspection/UAVInspection/queryStatistics",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\queryStatistics.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\queryStatistics.vue",
     "chunkName": "pages/transportationInspection/UAVInspection/queryStatistics",
-    "_name": "_601ea25a"
+    "_name": "_442deb48"
   },
   {
     "name": "transportationInspection-UAVInspection-UAVCR",
     "path": "/transportationInspection/UAVInspection/UAVCR",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\UAVCR.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\UAVCR.vue",
     "chunkName": "pages/transportationInspection/UAVInspection/UAVCR",
     "children": [
       {
         "name": "transportationInspection-UAVInspection-UAVCR-uavBack",
         "path": "uavBack",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\UAVCR\\\\uavBack.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\UAVCR\\\\uavBack.vue",
         "chunkName": "pages/transportationInspection/UAVInspection/UAVCR/uavBack",
-        "_name": "_a85bec80"
+        "_name": "_2b70eaab"
       },
       {
         "name": "transportationInspection-UAVInspection-UAVCR-uavList",
         "path": "uavList",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\UAVCR\\\\uavList.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\UAVCR\\\\uavList.vue",
         "chunkName": "pages/transportationInspection/UAVInspection/UAVCR/uavList",
-        "_name": "_7d9c01f7"
+        "_name": "_058a3a3c"
       },
       {
         "name": "transportationInspection-UAVInspection-UAVCR-uavReceive",
         "path": "uavReceive",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\UAVCR\\\\uavReceive.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\UAVCR\\\\uavReceive.vue",
         "chunkName": "pages/transportationInspection/UAVInspection/UAVCR/uavReceive",
-        "_name": "_60c50acc"
+        "_name": "_297d6dcf"
       },
       {
         "name": "transportationInspection-UAVInspection-UAVCR-uavReceiveAdd",
         "path": "uavReceiveAdd",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\UAVCR\\\\uavReceiveAdd.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\UAVCR\\\\uavReceiveAdd.vue",
         "chunkName": "pages/transportationInspection/UAVInspection/UAVCR/uavReceiveAdd",
-        "_name": "_3456ab57"
+        "_name": "_08a5f002"
       },
       {
         "name": "transportationInspection-UAVInspection-UAVCR-uavReceiveBack",
         "path": "uavReceiveBack",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\UAVCR\\\\uavReceiveBack.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\UAVCR\\\\uavReceiveBack.vue",
         "chunkName": "pages/transportationInspection/UAVInspection/UAVCR/uavReceiveBack",
-        "_name": "_21334721"
+        "_name": "_5266d054"
       }
     ],
-    "_name": "_66bbc5fe"
+    "_name": "_081577b6"
   },
   {
     "name": "transportationInspection-wireProtectionTeam-wireProtectionTeam",
     "path": "/transportationInspection/wireProtectionTeam/wireProtectionTeam",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\wireProtectionTeam\\\\wireProtectionTeam.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\wireProtectionTeam\\\\wireProtectionTeam.vue",
     "chunkName": "pages/transportationInspection/wireProtectionTeam/wireProtectionTeam",
     "children": [
       {
         "name": "transportationInspection-wireProtectionTeam-wireProtectionTeam-w",
         "path": "w",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\wireProtectionTeam\\\\wireProtectionTeam\\\\w.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\wireProtectionTeam\\\\wireProtectionTeam\\\\w.vue",
         "chunkName": "pages/transportationInspection/wireProtectionTeam/wireProtectionTeam/w",
-        "_name": "_d510636a"
+        "_name": "_300da6b6"
       }
     ],
-    "_name": "_6b3831dc"
+    "_name": "_1fc02951"
   },
   {
     "name": "transportationInspection-wireProtectionTeam-wireProtectionTeamPerson",
     "path": "/transportationInspection/wireProtectionTeam/wireProtectionTeamPerson",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\wireProtectionTeam\\\\wireProtectionTeamPerson.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\wireProtectionTeam\\\\wireProtectionTeamPerson.vue",
     "chunkName": "pages/transportationInspection/wireProtectionTeam/wireProtectionTeamPerson",
     "children": [
       {
         "name": "transportationInspection-wireProtectionTeam-wireProtectionTeamPerson-wp",
         "path": "wp",
-        "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\wireProtectionTeam\\\\wireProtectionTeamPerson\\\\wp.vue",
+        "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\wireProtectionTeam\\\\wireProtectionTeamPerson\\\\wp.vue",
         "chunkName": "pages/transportationInspection/wireProtectionTeam/wireProtectionTeamPerson/wp",
-        "_name": "_ff3cd5ac"
+        "_name": "_2d267e5f"
       }
     ],
-    "_name": "_9bbb185e"
+    "_name": "_146380f4"
   },
   {
     "name": "transportationInspection-UAVInspection-inspection-DefectModal",
     "path": "/transportationInspection/UAVInspection/inspection/DefectModal",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspection\\\\DefectModal.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspection\\\\DefectModal.vue",
     "chunkName": "pages/transportationInspection/UAVInspection/inspection/DefectModal",
-    "_name": "_140d3770"
+    "_name": "_6ed5a236"
   },
   {
     "name": "transportationInspection-UAVInspection-inspection-inspectionDefect",
     "path": "/transportationInspection/UAVInspection/inspection/inspectionDefect",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspection\\\\inspectionDefect.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspection\\\\inspectionDefect.vue",
     "chunkName": "pages/transportationInspection/UAVInspection/inspection/inspectionDefect",
-    "_name": "_d5a3c33e"
+    "_name": "_3ca0efe8"
   },
   {
     "name": "transportationInspection-UAVInspection-inspection-inspectionTask",
     "path": "/transportationInspection/UAVInspection/inspection/inspectionTask",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspection\\\\inspectionTask.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspection\\\\inspectionTask.vue",
     "chunkName": "pages/transportationInspection/UAVInspection/inspection/inspectionTask",
-    "_name": "_67473675"
+    "_name": "_01dd0ee0"
   },
   {
     "name": "transportationInspection-UAVInspection-inspection-inspectionTower",
     "path": "/transportationInspection/UAVInspection/inspection/inspectionTower",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspection\\\\inspectionTower.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspection\\\\inspectionTower.vue",
     "chunkName": "pages/transportationInspection/UAVInspection/inspection/inspectionTower",
-    "_name": "_062d216e"
+    "_name": "_95e2b784"
   },
   {
     "name": "transportationInspection-UAVInspection-inspection-inspectionTowerLists",
     "path": "/transportationInspection/UAVInspection/inspection/inspectionTowerLists",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspection\\\\inspectionTowerLists.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspection\\\\inspectionTowerLists.vue",
     "chunkName": "pages/transportationInspection/UAVInspection/inspection/inspectionTowerLists",
-    "_name": "_6302ed7c"
+    "_name": "_581189a7"
   },
   {
     "name": "transportationInspection-UAVInspection-inspection-taskPath",
     "path": "/transportationInspection/UAVInspection/inspection/taskPath",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspection\\\\taskPath.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\transportationInspection\\\\UAVInspection\\\\inspection\\\\taskPath.vue",
     "chunkName": "pages/transportationInspection/UAVInspection/inspection/taskPath",
-    "_name": "_5ec25f26"
+    "_name": "_3311a3d1"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "G:\\\\Vue\\\\tlii-platform-tpiim-nuxtkoa2\\\\pages\\\\index.vue",
+    "component": "G:\\\\tlii\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
-    "_name": "_4a8815dc"
+    "_name": "_2aac5787"
   }
 ]
